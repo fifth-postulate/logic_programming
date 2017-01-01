@@ -1,2 +1,2 @@
 # logic_programming
-A workshop about logic programming
+A workshop about logic programming.
